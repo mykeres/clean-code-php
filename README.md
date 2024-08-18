@@ -2061,3 +2061,5 @@ This is also available in other languages:
    * [panuwizzle/clean-code-php](https://github.com/panuwizzle/clean-code-php)
 
 **[⬆ back to top](#table-of-contents)**
+
+:)
